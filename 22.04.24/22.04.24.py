@@ -11,5 +11,9 @@ def check_numbers(x,y):
     else:
         return "кіші"
 
-
 print(check_numbers(50,51))
+
+def find_max(list1):
+    for i in find_max:
+        max_num += max(find_max([1,2,3,4,5]))
+print(find_max)
